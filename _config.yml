@@ -6,13 +6,13 @@ color:
     - '#020202'
     - '#DE0323'
     - '#878787'
-  brandStrength: 0.6254491743077336
-  lightness: 0.012664657002624868
-  rhythmicContrast: 0.5677038759745755
-  saturation: 0.24339576290444198
+  brandStrength: 0.625449
+  lightness: 0.092928
+  rhythmicContrast: 0.567703
+  saturation: 0.243395
 cta: {}
-layout_spectrum: 0.8477154398800183
+layout_spectrum: 0.749178
 name: gase
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.22541764860590863
+typography_spectrum: 0.624178
